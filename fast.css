@@ -1,5 +1,6 @@
 body{
     font-family: 'Bebas Neue', cursive;
+    margin:0;
 }
 
 h1{
@@ -13,4 +14,20 @@ h1{
 .helf-width{
     width: 40%;
     float: left;
+    padding:0px;
+    margin: 60px;
+  
+    
 }
+
+.top-banner{
+    background-image:url("https://thumbs.dreamstime.com/b/autumn-landscape-nature-background-dried-flowers-water-drops-rain-field-banner-selective-focus-75038244.jpg");
+    
+}
+
+
+section{
+    height:600px;
+}
+
+
