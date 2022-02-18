@@ -1,0 +1,16 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+    font-size:50px;
+}
+.font-color{
+    color: orange;
+    font-size: 80px;
+}
+
+.helf-width{
+    width: 40%;
+    float: left;
+}
