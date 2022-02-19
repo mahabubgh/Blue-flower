@@ -1,0 +1,13 @@
+.color{
+    color: crimson;
+    font-size: 50px;
+}
+
+img{
+    width:100%;
+}
+
+.width{
+    width:40%;
+    float:left;
+}
