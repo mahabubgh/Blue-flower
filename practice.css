@@ -126,7 +126,6 @@ padding:50px 0px ;
     background-image:url("New/im.jpg");
     margin-top:50px;
     background-repeat:no-repeat;
-    margin-left:;
     background-position:100%;
     
 }
@@ -145,6 +144,7 @@ padding:50px 0px ;
     padding-top:120px;
 }
 
+
 #makeb{
     color:crimson;
     font-size:30px;
@@ -152,4 +152,14 @@ padding:50px 0px ;
 
 .font{
     font-size:50px;
+}
+
+.shado-3{
+    box-shadow:10px 10px 40px grey;
+    margin-left:40px;
+}
+
+.text{
+    float: left;
+    width:45%;
 }
