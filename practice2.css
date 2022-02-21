@@ -4,7 +4,7 @@ body{
 
 .color{
     font-size:30px;
-    color:red;
+    color:grey;
 }
 
 .size-width{
@@ -57,4 +57,17 @@ img{
     color:white;
     font-size:20px;
 
+}
+.font-1:hover{
+    color:gray;
+}
+
+.h4{
+    color:gray;
+    
+}
+
+.h4:hover{
+    color:white;
+    text-decoration: none;
 }
