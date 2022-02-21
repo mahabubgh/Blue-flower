@@ -1,13 +1,145 @@
+body{
+    margin: 0px
+}
+
 .color{
-    color: crimson;
-    font-size: 50px;
+    color: gold;
+    font-size:50px;
 }
 
 img{
+    width:50%;
+    
+
+}
+
+.text{
+    width: 45%;
+    float: left;
+}
+
+.top-banner{
+    background-image:url("New/imagess.jpg");
+    background-repeat:repeat;
+
+}
+
+section{
     width:100%;
 }
 
-.width{
-    width:40%;
+
+a{
+    font-size: 50px;
+    color:red;
+}
+
+.text-button{
+    text-decoration:none;
+    background-color:yellow;
+    padding:10px 10px;
+    border-radius:20px;
+    color:black
+    ;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, red, green);
+}
+
+.V{
+    color:rgb(68, 0, 255);
+}
+
+.M{
+    color: greenyellow;
+}
+
+.W{
+    color:black;
+}
+
+.text-button:hover{
+    background-color:red;
+    color:indigo;
+    font-family: inherit;
+    font-style: italic;
+
+    
+
+}
+
+.V:hover{
+    color: rgb(229, 255, 0);
+
+}
+
+span:hover{
+    color: magenta;
+}
+
+.W{
+    color: deeppink;
+}
+
+.image{
+    padding:150px;
     float:left;
+    width:40%;
+}
+
+h5{
+    font-size:20px;
+}
+
+h6{
+    font-size:20px;
+    margin-top:10px;
+    margin-bottom:30px;
+}
+
+.padding {
+padding:50px 0px ;
+}
+
+.batton{
+    padding:0px;
+    text-decoration: none;
+    background-image: linear-gradient(yellow, green, red);
+    padding:20px 40px;
+    border-radius:60px;
+    font-size:30px;
+    color:yellow;
+
+    
+} 
+
+.second-bananas{
+    background-image:url("New/im.jpg");
+    margin-top:50px;
+    background-repeat:no-repeat;
+    margin-left:;
+    background-position:100%;
+    
+}
+
+.go{
+    position:right;
+}
+
+.right{
+    position:left;
+}
+
+
+#tab{
+    padding-left:60px;
+    padding-top:120px;
+}
+
+#makeb{
+    color:crimson;
+    font-size:30px;
+}
+
+.font{
+    font-size:50px;
 }
