@@ -108,9 +108,19 @@ padding:50px 0px ;
     border-radius:60px;
     font-size:30px;
     color:yellow;
+    font-weight:700;
 
     
 } 
+
+.batton:hover{
+    font-style: italic;
+    color:red;
+}
+
+.tab2{
+    padding-left:40px;
+}
 
 .second-bananas{
     background-image:url("New/im.jpg");
