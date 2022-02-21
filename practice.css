@@ -157,9 +157,16 @@ padding:50px 0px ;
 .shado-3{
     box-shadow:10px 10px 40px grey;
     margin-left:40px;
+    
+    
+    
 }
 
 .text{
-    float: left;
-    width:45%;
+
 }
+
+.right{
+    float:right;
+}
+

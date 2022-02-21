@@ -1,0 +1,60 @@
+body{
+    margin:0px;
+}
+
+.color{
+    font-size:30px;
+    color:red;
+}
+
+.size-width{
+    width:48%;
+    float: left;
+    padding:20px 30px;
+}
+
+img{
+    margin-left:250px;
+    width:400px;
+}
+
+.top-banner{
+    background-image:url("https://img.freepik.com/free-vector/seamless-gold-rhombus-grid-pattern-black-background_53876-97589.jpg?size=626&ext=jpg");
+    width:100%;
+}
+
+
+.click-here{
+    font-size:20px;
+    color:black;
+    text-decoration: none;
+    background-color:white;
+    border-radius:40px;
+    font-weight:700;
+    padding:5px 40px;
+}
+
+.click-here:hover{
+    background-color:gray;
+}
+
+#font-color{
+    color:white;
+}
+
+.font{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+}
+
+.font:hover{
+    color:gray;
+}
+
+.font-1{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+
+}
