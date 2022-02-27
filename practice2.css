@@ -8,7 +8,7 @@ body{
 }
 
 .size-width{
-    width:48%;
+    width:40%;
     float: left;
     padding:20px 30px;
 }
@@ -71,3 +71,28 @@ img{
     color:white;
     text-decoration: none;
 }
+
+
+
+.top-banner2{
+    float:left;
+    width:90%;
+    
+    
+}
+
+.width2{
+    margin-left:0px;
+    padding-top: 40px;
+    float:left;
+
+}
+
+.pozition{
+    margin-right:0px;
+    padding:0px 0px;
+    margin: 300px;
+    margin-left: 200px;
+}
+
+

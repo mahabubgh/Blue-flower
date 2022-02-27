@@ -1,0 +1,23 @@
+body{
+    margin:0;
+}
+
+i{
+    color: #ffffff;
+}
+
+.top-banner{
+    background-image:url("http://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,f_auto,fl_progressive,h_1500,q_90,w_2000/9621/Untitled-1_msxftc.jpg");
+    height:800px;
+    width:100%;
+}
+.color{
+    color:white;
+    text-align: center;
+    padding-top:400px;
+    font-size: 50px;
+}
+
+.margin{
+    text-align: center;
+}
