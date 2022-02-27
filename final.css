@@ -34,6 +34,7 @@ h1{
 
 section{
     height:500px;
+    padding-bottom:150px;
 }
 
 .link-button{
@@ -43,5 +44,15 @@ section{
     border-radius:5px;
     color:white;
     font-weight:700;
-    ba
+
+}
+
+h2{
+    font-size: 40px;
+}
+
+.dream-area{
+    background-image:url("complete-web-development-bangla-resources/developer-portfolio/dream-bg.png") ;
+    background-repeat:no-repeat;
+    background-position:right;
 }
