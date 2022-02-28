@@ -69,3 +69,19 @@ h3{
 
 }
 
+.experience-area{
+    background-image:url("complete-web-development-bangla-resources/developer-portfolio/exp-bg.png");
+    background-repeat:no-repeat;
+    background-position: left;
+}
+
+#column-degine{
+    border-left:7px solid;
+    border-image:linear-gradient(rgb(0, 255, 115),rgb(128, 0, 96));
+    background-image: linear-gradient(red, green);
+    border-image-slice:4;
+    border-right:7px solid;
+    border-bottom:7px solid;
+    border-top: 7px solid;
+
+}
