@@ -1,0 +1,50 @@
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.padding{ 
+  
+    margin-left:10%;
+    width:36%;
+    margin-top:5%;
+    float: left;
+    
+}
+
+h2{
+    color:orange;
+    font-size: 40px;
+    
+}
+
+h1{
+    font-size: 30px; 
+}
+
+img{
+    width:100%;
+    margin-right:30px;
+}
+
+.bacground-img{
+    padding: 20px 30px;
+    background-color:orange;
+    border-radius:20px;
+    height:700px;
+    text-decoration: none;
+    
+    
+}
+
+.top-banner{
+    background-image:url("complete-web-development-bangla-resources/personal-website/header-bg.png");
+    height:700px;
+    background-repeat: no-repeat;
+    background-image:50%;
+    background-size: cover;
+    background-position: center;
+    
+  
+}
