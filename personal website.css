@@ -10,7 +10,7 @@ body{
     width:36%;
     margin-top:5%;
     float: left;
-    
+    background-image: url("complete-web-development-bangla-resources/personal-website/latest-work-bg.png");
 }
 
 h2{
@@ -36,15 +36,28 @@ img{
     text-decoration: none;
     
     
+    
 }
 
 .top-banner{
     background-image:url("complete-web-development-bangla-resources/personal-website/header-bg.png");
-    height:700px;
     background-repeat: no-repeat;
     background-image:50%;
     background-size: cover;
     background-position: center;
+    height: 700px;
     
   
 }
+
+.banner{
+    background-image: url("complete-web-development-bangla-resources/personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    background-image:50%;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
+
+
